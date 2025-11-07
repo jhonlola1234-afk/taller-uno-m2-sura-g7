@@ -4,6 +4,16 @@ Resuelve los siguientes problemas utilizando los métodos de arreglos `push`, `p
 
 ---
 
+
+### Instrucciones
+- Forkear el repositorio
+- Clonar el repositorio
+- Abrir el repositorio clonado
+- Crear una carpeta con el nombre de cada uno (dentro del repositorio clonado)
+- Desarrollar los ejercicios
+- Hacer Push por cada ejercicio
+
+
 ### Ejercicio 1: Lista del Súpermercado
 
 Inicias con la siguiente lista:
